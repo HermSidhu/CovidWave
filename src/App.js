@@ -33,7 +33,6 @@ class App extends React.Component {
         <Cards data={data}/>
         <CountryPicker handleCountryChange={this.handleCountryChange}/>
         <Chart data={data} country={country}/>
-        <p className={styles.masthead}>Created with ❤️ by Herm Sidhu</p>
         <p className={styles.masthead}>For business inquiries: hermsidhu@outlook.com</p>
       </div>
     )
