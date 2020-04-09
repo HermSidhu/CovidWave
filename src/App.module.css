@@ -16,6 +16,8 @@ body {
 
 .masthead {
   font-size: 20px;
+  font-family: 'Nunito', sans-serif;
+  margin: 1px;
 }
 
 @media (max-width: 770px) {
