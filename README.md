@@ -1,6 +1,7 @@
 # [CovidWave](https://covidwave.com)
 A simple app to track Covid-19 Cases around the world, compiled into charts.
 
+https://github.com/HermSidhu/CovidWave/blob/master/Browser.png
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
