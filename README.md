@@ -1,4 +1,4 @@
-# CovidWave.com
+# url:CovidWave.com
 A simple app to track Covid-19 Cases around the world, compiled into charts.
 
 
