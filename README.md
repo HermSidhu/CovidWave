@@ -1,4 +1,4 @@
-# [CovidWave](https://covidwave.com).
+# [CovidWave](https://covidwave.com)
 A simple app to track Covid-19 Cases around the world, compiled into charts.
 
 
